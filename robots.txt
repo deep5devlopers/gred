@@ -1,0 +1,10 @@
+# Robots.txt for Gred by Deep - Google Rank #1 Search Indexing
+User-agent: *
+Allow: /
+Sitemap: https://deep5devlopers.github.io/gred/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
